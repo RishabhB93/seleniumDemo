@@ -46,7 +46,7 @@ public class gmailProfilePicture {
 	  //driver.switchTo().defaultContent();
 	  //driver.navigate().refresh();				
 	  //driver.switchTo().window(arg0)	
-	  //driver.close();
+	    driver.close();
 	}
 
 }
